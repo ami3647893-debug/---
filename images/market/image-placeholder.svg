@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Image placeholder</title>
+  <desc id="desc">Neutral placeholder graphic for a missing local image.</desc>
+  <rect width="640" height="400" rx="24" fill="#edf4f1"/>
+  <path d="M92 300h456" stroke="#bfd6cc" stroke-width="4" stroke-linecap="round"/>
+  <path d="m140 265 90-85 67 57 86-105 114 92" fill="none" stroke="#148467" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="383" cy="132" r="11" fill="#148467"/>
+</svg>
